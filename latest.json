@@ -1,0 +1,18 @@
+{
+  "versionName": "0.1.6",
+  "versionCode": 117,
+  "tagName": "apk-v0.1.6-117",
+  "apkUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.6-117/kongcheng-schedule-v0.1.6-117-android.apk",
+  "releaseUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.6-117",
+  "sha256": "07b9611207a992c066dd2ecd027e62766891a42b770fc6d7878f0f39464e5709",
+  "size": 42628916,
+  "mandatory": false,
+  "notes": [
+    "新增校园工具箱，支持日期日历、校园地图、学习工具与多人时间协作",
+    "优化首页今日面板、课表、成绩、课程评价和打卡体验",
+    "新增 App 内版本检查、下载和安装更新",
+    "提升请求去重与限流后的恢复体验"
+  ],
+  "publishedAt": "2026-08-14T13:29:35Z",
+  "sourceCommit": "45613f3e140279553baf7b837d24352159c5ef27"
+}
