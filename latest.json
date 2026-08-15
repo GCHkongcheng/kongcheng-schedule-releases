@@ -1,17 +1,16 @@
 {
-    "versionName":  "0.1.7",
-    "versionCode":  118,
-    "tagName":  "apk-v0.1.7-118",
-    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.7-118/kongcheng-schedule-v0.1.7-118-android.apk",
-    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.7-118",
-    "sha256":  "53c3c97d304313cf6f0f3bae0d457e00b1560aade31df565466af092fea36fd4",
-    "size":  42608397,
+    "versionName":  "0.1.8",
+    "versionCode":  119,
+    "tagName":  "apk-v0.1.8-119",
+    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.8-119/kongcheng-schedule-v0.1.8-119-android.apk",
+    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.8-119",
+    "sha256":  "ae79da3068af16f1a78b70ff39461352c017329ed32d8a6d3d77b3c36afeee46",
+    "size":  42608626,
     "mandatory":  false,
     "notes":  [
-                  "修复 App 教务登录与验证码失败回退，验证码图片仍由手机本地获取",
-                  "App 与微信小程序统一首页、课表、查询页和课程评价体验",
-                  "加固服务器验证码识别接口"
+                  "修复 App 自动验证码首次识别不确定时过早要求人工输入",
+                  "App 自动验证码改为最多换图重试 4 次"
               ],
-    "publishedAt":  "2026-08-15T07:05:19.6309820Z",
-    "sourceCommit":  "44ffe3de589cb1522b25c5cdd63ab474ff64b6db"
+    "publishedAt":  "2026-08-15T07:44:18.2379786Z",
+    "sourceCommit":  "33c32d9a5d2d9f95723457d307492ae807a7f049"
 }
