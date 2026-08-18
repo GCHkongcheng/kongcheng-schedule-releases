@@ -1,16 +1,15 @@
 {
-    "versionName":  "0.1.8",
-    "versionCode":  119,
-    "tagName":  "apk-v0.1.8-119",
-    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.8-119/kongcheng-schedule-v0.1.8-119-android.apk",
-    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.8-119",
-    "sha256":  "ae79da3068af16f1a78b70ff39461352c017329ed32d8a6d3d77b3c36afeee46",
-    "size":  42608626,
+    "versionName":  "0.1.9",
+    "versionCode":  120,
+    "tagName":  "apk-v0.1.9-120",
+    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.9-120/kongcheng-schedule-v0.1.9-120-android.apk",
+    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.9-120",
+    "sha256":  "31e8b2abd4e629c2617eec85e2aa050d5a9619fd56adb68647b27c0111e00aec",
+    "size":  42669910,
     "mandatory":  false,
     "notes":  [
-                  "修复 App 自动验证码首次识别不确定时过早要求人工输入",
-                  "App 自动验证码改为最多换图重试 4 次"
+                  "统一 App 与微信小程序的课表、成绩、等级成绩、考试和空教室解析结果；App 继续通过手机网络直连教务，服务器仅负责解析手机取得的教务响应；修复 App 教务 Cookie 与 Session 在登录、成绩和考试页面间不一致的问题"
               ],
-    "publishedAt":  "2026-08-15T07:44:18.2379786Z",
-    "sourceCommit":  "33c32d9a5d2d9f95723457d307492ae807a7f049"
+    "publishedAt":  "2026-08-18T07:23:10.6012885Z",
+    "sourceCommit":  "30cb1a66e068e0baeb9f4dced941ac37c672c317"
 }
