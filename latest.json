@@ -4,13 +4,13 @@
   "tagName": "apk-v0.1.10-121",
   "apkUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.10-121/kongcheng-schedule-v0.1.10-121-cloud.apk",
   "releaseUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.10-121",
-  "sha256": "d0a87f1dc4d1af1c9590bf8068e684e3ec08719b14731bf94f1d75fe217f1b81",
+  "sha256": "51a03cdfecfb9d027f91ebe9cd1cba59180975b9859cd081865bd6a02c68747b",
   "size": 36609099,
   "mandatory": false,
   "notes": [
-    "切换到与 HBuilderX 5.24 匹配的云端 Android 原生基座",
-    "修复 App 启动时 HBuilderX 编译器与原生 SDK 版本不一致提示"
+    "使用 HBuilderX 5.24 云端编译器与自有发布证书构建",
+    "修复启动时 SDK 版本提示并保持旧版更新签名一致"
   ],
-  "publishedAt": "2026-08-18T10:30:36.907Z",
-  "sourceCommit": "3debfaf26e4140e9141d1db1db5c03d75436b2b6"
+  "publishedAt": "2026-08-18T10:50:10.543Z",
+  "sourceCommit": "1dec9f0f3f52016f56ca725483d659c630870c0f"
 }
