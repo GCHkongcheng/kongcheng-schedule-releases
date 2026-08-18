@@ -1,15 +1,16 @@
 {
-    "versionName":  "0.1.9",
-    "versionCode":  120,
-    "tagName":  "apk-v0.1.9-120",
-    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.9-120/kongcheng-schedule-v0.1.9-120-android.apk",
-    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.9-120",
-    "sha256":  "31e8b2abd4e629c2617eec85e2aa050d5a9619fd56adb68647b27c0111e00aec",
-    "size":  42669910,
-    "mandatory":  false,
-    "notes":  [
-                  "统一 App 与微信小程序的课表、成绩、等级成绩、考试和空教室解析结果；App 继续通过手机网络直连教务，服务器仅负责解析手机取得的教务响应；修复 App 教务 Cookie 与 Session 在登录、成绩和考试页面间不一致的问题"
-              ],
-    "publishedAt":  "2026-08-18T07:23:10.6012885Z",
-    "sourceCommit":  "30cb1a66e068e0baeb9f4dced941ac37c672c317"
+  "versionName": "0.1.10",
+  "versionCode": 121,
+  "tagName": "apk-v0.1.10-121",
+  "apkUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.10-121/kongcheng-schedule-v0.1.10-121-cloud.apk",
+  "releaseUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.10-121",
+  "sha256": "d0a87f1dc4d1af1c9590bf8068e684e3ec08719b14731bf94f1d75fe217f1b81",
+  "size": 36609099,
+  "mandatory": false,
+  "notes": [
+    "切换到与 HBuilderX 5.24 匹配的云端 Android 原生基座",
+    "修复 App 启动时 HBuilderX 编译器与原生 SDK 版本不一致提示"
+  ],
+  "publishedAt": "2026-08-18T10:30:36.907Z",
+  "sourceCommit": "3debfaf26e4140e9141d1db1db5c03d75436b2b6"
 }
