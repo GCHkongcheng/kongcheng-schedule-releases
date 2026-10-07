@@ -1,18 +1,15 @@
 {
-  "versionName": "0.1.11",
-  "versionCode": 122,
-  "tagName": "apk-v0.1.11-122",
-  "apkUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.11-122/kongcheng-schedule-v0.1.11-122-android.apk",
-  "releaseUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.11-122",
-  "sha256": "b7272985c551b86b1c8f9560063473fca675d1b91a78a3859c32be0d3f873d34",
-  "size": 42676224,
-  "mandatory": false,
-  "notes": [
-    "App 端教务改为设备本地直连：登录、验证码图片与取数在手机完成，后端仅解析 HTML 与 OCR。",
-    "支持课表、成绩、等级成绩、考试、空教室、图书馆本地直连。",
-    "App 界面与微信小程序对齐：账户卡、首页概览、卡片样式。",
-    "会话静默续期与凭据自动重登，无需重复输入密码。"
-  ],
-  "publishedAt": "2026-10-07T07:56:11.0470334Z",
-  "sourceCommit": "2a8c33e3c49a992f72b29826c7353e9a7fc99441"
+    "versionName":  "0.1.12",
+    "versionCode":  123,
+    "tagName":  "apk-v0.1.12-123",
+    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.12-123/kongcheng-schedule-v0.1.12-123-android.apk",
+    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.12-123",
+    "sha256":  "d11be8758884ec0c001037251c4396b8f472d58e42507e2edafc4eebf87f92af",
+    "size":  39881109,
+    "mandatory":  false,
+    "notes":  [
+                  "开启 R8 代码压缩与混淆，提升逆向成本；App 界面已对齐小程序并支持教务本地直连。"
+              ],
+    "publishedAt":  "2026-10-07T11:56:20.3848106Z",
+    "sourceCommit":  "59e50805ef56b5c19b72e837f1c520561a54f28d"
 }
