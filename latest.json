@@ -1,16 +1,15 @@
 {
-  "versionName": "0.1.10",
-  "versionCode": 121,
-  "tagName": "apk-v0.1.10-121",
-  "apkUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.10-121/kongcheng-schedule-v0.1.10-121-cloud.apk",
-  "releaseUrl": "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.10-121",
-  "sha256": "51a03cdfecfb9d027f91ebe9cd1cba59180975b9859cd081865bd6a02c68747b",
-  "size": 36609099,
-  "mandatory": false,
-  "notes": [
-    "使用 HBuilderX 5.24 云端编译器与自有发布证书构建",
-    "修复启动时 SDK 版本提示并保持旧版更新签名一致"
-  ],
-  "publishedAt": "2026-08-18T10:50:10.543Z",
-  "sourceCommit": "1dec9f0f3f52016f56ca725483d659c630870c0f"
+    "versionName":  "0.1.11",
+    "versionCode":  122,
+    "tagName":  "apk-v0.1.11-122",
+    "apkUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/download/apk-v0.1.11-122/kongcheng-schedule-v0.1.11-122-android.apk",
+    "releaseUrl":  "https://github.com/GCHkongcheng/kongcheng-schedule-releases/releases/tag/apk-v0.1.11-122",
+    "sha256":  "b7272985c551b86b1c8f9560063473fca675d1b91a78a3859c32be0d3f873d34",
+    "size":  42676224,
+    "mandatory":  false,
+    "notes":  [
+                  "App 端教务改为设备本地直连（登录/验证码/取数在手机完成，后端只解析与 OCR）,App 界面与微信小程序对齐（账户卡、首页概览、卡片样式）,支持课表/成绩/等级成绩/考试/空教室/图书馆直连,会话静默续期与凭据自动重登，无需重复输入密码"
+              ],
+    "publishedAt":  "2026-10-07T07:56:11.0470334Z",
+    "sourceCommit":  "2a8c33e3c49a992f72b29826c7353e9a7fc99441"
 }
